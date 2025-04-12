@@ -13,4 +13,4 @@ This is a basic command-line calculator built with Python. It supports basic ari
 ##  How to Run
 
 ```bash
-python calculator.py
+python Calculator.py
